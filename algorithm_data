@@ -1,2 +1,6 @@
 SS,subspecialty,text_url,algorithm_url
-dyspnea,CM,the ddx include PE, AMI, HF,...
+dyspnea,CM,...,...
+chest pain,CV
+abdominal pain,GI
+diarrhea, GI
+tachycardia,CV
