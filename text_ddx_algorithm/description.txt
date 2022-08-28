@@ -1,4 +1,0 @@
-This is a example of file. Common ddx include
-(1) AMI
-(2) GERD
-123
